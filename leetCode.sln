@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetCode", "leetCode\leetCode.vcproj", "{8462997E-7534-4048-B3A8-823A24DB527D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lCode", "leetCode\leetCode.vcproj", "{8462997E-7534-4048-B3A8-823A24DB527D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
